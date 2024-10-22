@@ -1,0 +1,35 @@
+TODO
+
+Notizen machen
+Anki karten davon erstellen
+1 Thema aussuchen und lernen durchziehen
+Curriculum erstellen
+Ziel definieren (start at least)
+
+
+Mindset: positiv, faehig sein, stueck f stueck
+
+
+
+Lernthemen:
+
+C Harvard
+Datenstrukturen
+Algorithmen
+Mathe
+
+
+Ziel Notizen:
+
+Javascript + spaeter Go
+    Grosse Job Angebot
+    Freelance Fiver ...
+    Erfahrung work for free
+    eigene coole Projekte und Websites
+    Go einbauen und Produkte launchen
+    SaaS
+
+C
+    Hardware nah
+    Lerne Grundkonzepte -> tiefes Verstaendnis
+    
